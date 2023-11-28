@@ -1,0 +1,74 @@
+Kushal Bhattarai
+Data Engineer Associate Trainee
+✉ kushal.bhattarai@fusemachines.com | Linkedin | GitHub
+Data Engineer Associate Trainee with a focus on handling data and ETL. Skilled in Python, SQL,
+Pandas, Numpy, and AWS. I have practical experience in creating and improving ETL pipelines. I'm
+enthusiastic about using technology to make working with data easier and to support data-based
+decision-making.
+PROJECT EXPERIENCE
+Application of Computer Vision in Robotic Arm
+●
+Developed and implemented a computer vision-controlled robotic arm model for large-scale
+industrial applications.
+●
+Applied data preprocessing techniques, including image conversion to Hue, Saturation, and
+Value (HSV) format, Histogram Equalization, Circular Hough Transform (CHT), and Canny
+Edge Detection, to optimize object detection processes.
+●
+Identiﬁed that color processing is ideal in stable lighting conditions, while CHT serves as a
+robust alternative in challenging scenarios, showcasing adaptability and data-driven
+decision-making in the context of computer vision.
+●
+Employed linear regression with gathered data to ﬁne-tune constant values, highlighting a
+data-driven approach to improve system accuracy and efﬁciency.
+●
+Published the ﬁndings in the 13th IOE Graduate Conference proceedings. (ISSN: 2350-8914
+(Online), 2350-8906 (Print))
+WORK EXPERIENCE
+Data Engineer Associate Trainee, Fusemachines
+2023 - Present
+●
+Achieved proﬁciency in intermediate-level Python and SQL through internal training
+programs.
+●
+Developed fundamental insights into AWS during training, which included practical
+experience with Lambda functions and S3 bucket operations.
+●
+Acquired essential knowledge of Project Management principles.
+●
+Gained a foundational understanding of Software Testing concepts.
+●
+Gained basic level understanding of Data Security and Compliance concepts
+SKILLS
+●
+Programming Language: Python
+●
+Libraries: Pandas, NumPy, Matplotlib
+●
+Framework: PySpark
+●
+Database: PostgreSQL, MySQL
+●
+Cloud Deployment: AWS(S3, Lambda, RDS, EC2)
+●
+Version Control System: Git
+TRAININGS
+●
+KAGGLE: PANDAS
+●
+KAGGLE: ADVANCED SQL
+●
+KAGGLE: DATA CLEANING
+EDUCATION
+●
+Masters of Science in Computer Engineering Specialization in Data Science and Analytics
+Pulchowk Campus, TU
+2023 - Ongoing
+●
+Bachelors of Engineering in Electronics and Communication Engineering
+Purwanchal Campus, TU
+2022
+●
+Higher Secondary (+2) in Science
+Delhi Public School, CBSE
+2017

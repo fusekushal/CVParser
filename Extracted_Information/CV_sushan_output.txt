@@ -1,0 +1,109 @@
+OpenCV in Python
+Linux Terminal
+SQL
+ML and Deep learning with Python
+Natural Language Processing
+Git and Github
+Basics of Robotics and IOT
+President | Electronics and Comm.
+engineering students society (EXCESS),
+Purwanchal Campus
+Member | Robotics Club, Purwanchal
+Campus
+Member | Robotics Association of Nepal
+Languages
+Sushan Kattel
+Contact info
+Summary
+I am a final year student in Electronics and Communication Engineering
+with a great passion for Machine learning and data science. I aim to help
+solve real world problems using technology. I am always open to work as
+part of a team, to follow corporate plans and goals, and continue my growth
+as an ambitious and dynamic individual. I am good at time management,
+adhere myself to deadlines and aslo perform well under pressure. 
+Mobile: 
++977-9862699011
++977-9814936832
+Email: 
+sushan074bex@ioepc.edu.np
+sushankattel@gmail.com
+LinkedIn: 
+www.linkedin.com/in/sushan-kattel/
+GitHub: 
+https://github.com/SushanKattel
+Address: 
+Permanent: Birtamode-07, Jhapa 
+Temporary: Hattiban, Lalitpur
+Associations
+Academic History
+IOE Purwanchal Campus, Dharan
+BEX | 2017-present
+Shree Devi H.S.S, Birtamode
+Laligurans English School, Birtamode
++2 | Science Stream | 2015-2017
+School Leaving Certificate | 2014
+Projects Involved
+Deepfake video detection using DFT
+- I've worked as a freelance in group project which detected whether a video is original or deepfake. It
+worked pretty well on high resolution face dominant videos.
+Recommendation System for social media
+- Created a recommendation system for a social media that recommend similar feeds to users,
+recommends whom to follow and gives recommendation about therapist based on age, diagonosis and
+location and deployed using flask.
+Predicting Handwritten Devanagari Characters using modified-Lenet Model Architecture
+ - Published a preprint on ResearchSquare. Link:      https://www.researchsquare.com/article/rs-
+2137648/v1
+Computer vision based robotic arm
+- A 3d printed robotic arm that implements inverse kinamatics and openCV to detect, localize, pick and
+drop red colored circular objects from the workspace based on feed from webcam.
+This can be found here : https://fb.watch/irx9LWzk4W/
+Tomato leaf disease prediction using CNN
+- Predicts 10 classes of leaf disease on tomato leaves, trained on plantVillage dataset of kaggle
+Trainer
+- Basic Python training organized by Robotics Club, Purwanchal Campus
+- Basic Microcontroller training organized by EXCESS, IOE PC
+- Training Facilitator for IOT training organized for Bsc.CsIT by Dept. of electronics & computer, IOE-
+Purwanchal Campus at MMAMC, Biratnagar
+Skills
+References
+Er. Manoj Kr. Guragain | HOD | Dept. of
+electronics and computer, Purwanchal
+Campus 
+Er. Deependra Neupane | Mentor |
+Robotics Club, Purwanchal Campus
+Er. Bikash Gurung | President |
+Robotics Association of Nepal 
+Er. Bikram Aryal | CEO | Bitpoint.
+       mkguragai@gmail.com
+       9842033385
+       deependran.neupane@gmail.com
+9846642367
+ran.bikashgurung@gmail.com
+9851208879
+ 
+9849833643
+  MOOC Certifications
+Deep Learning Specialization from
+Coursera
+Basics of Natural Language
+processing and Medical Image
+processing from Coursera
+Nepali
+English
+Hindi
+Interests
+Research and innovation
+Image Processing
+Big Data Analysis
+Machine Learning
+Data Science
+Robotics
+Programming and bug fixing
+Experiences
+Robotics Association Of Nepal 
+Head of Research and Development
+Jun 2022 | Jan 2023
+Bitpoint Technologies 
+AI/Data Engineer
+Contract Based for Recommendation
+System
